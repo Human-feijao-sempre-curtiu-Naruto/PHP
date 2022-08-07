@@ -1,1 +1,1 @@
-<?php echo "show de cu"; ?>
+<?php echo "Olá Mundo!"; ?>
